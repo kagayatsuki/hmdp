@@ -1,0 +1,14 @@
+﻿{"key":"blog:like:6","type":"ZSET","ttl":"-1","dump":"IQ=="}
+{"key":"follow:5047","type":"SET","ttl":"-1","dump":"IQ=="}
+{"key":"cache:shop:1","type":"STRING","ttl":"-1","dump":null}
+{"key":"follow:5046","type":"SET","ttl":"-1","dump":null}
+{"key":"cache:shop:10","type":"STRING","ttl":"-1","dump":null}
+{"key":"blog:like:24","type":"ZSET","ttl":"-1","dump":null}
+{"key":"icr:order::20251127","type":"STRING","ttl":"-1","dump":null}
+{"key":"follow:5045","type":"SET","ttl":"-1","dump":null}
+{"key":"cache:shop:2","type":"STRING","ttl":"-1","dump":null}
+{"key":"feed:5049","type":"ZSET","ttl":"-1","dump":null}
+{"key":"sign:50492025/12","type":"STRING","ttl":"-1","dump":null}
+{"key":"blog:like:26","type":"ZSET","ttl":"-1","dump":null}
+{"key":"follow:5044","type":"SET","ttl":"-1","dump":null}
+{"key":"","type":"NONE","ttl":"-2","dump":null}
